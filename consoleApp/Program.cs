@@ -6,17 +6,17 @@ namespace consoleApp
     {
         public static void Main(string[] args)
         {
-            string[] kurslar = new string[]
+            string[] courses = new string[]
                 {
                     "C++", "C#", "JAVA", "Ruby"
                 };
-            for (int i = 0; i < kurslar.Length; i++)
+            for (int i = 0; i < courses.Length; i++)
             {
-                Console.WriteLine(kurslar[i]);
+                Console.WriteLine(courses[i]);
             }
-            Console.WriteLine("for döngüsü sona erdi");
+            Console.WriteLine("the end of the for loop");
 
-            foreach (string kurs in kurslar)
+            foreach (string kurs in courses)
             {
                 Console.WriteLine(kurs);
             }
