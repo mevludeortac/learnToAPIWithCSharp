@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "classlar", "classlar\classl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "methods", "methods\methods.csproj", "{2D99968D-4584-4CEB-B439-D5753EDD863C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Math", "Math\Math.csproj", "{4951EBBE-6948-4022-934C-B4383924F4DD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -27,6 +29,10 @@ Global
 		{2D99968D-4584-4CEB-B439-D5753EDD863C}.Debug|anycpu.Build.0 = Debug|anycpu
 		{2D99968D-4584-4CEB-B439-D5753EDD863C}.Release|anycpu.ActiveCfg = Release|anycpu
 		{2D99968D-4584-4CEB-B439-D5753EDD863C}.Release|anycpu.Build.0 = Release|anycpu
+		{4951EBBE-6948-4022-934C-B4383924F4DD}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{4951EBBE-6948-4022-934C-B4383924F4DD}.Debug|anycpu.Build.0 = Debug|anycpu
+		{4951EBBE-6948-4022-934C-B4383924F4DD}.Release|anycpu.ActiveCfg = Release|anycpu
+		{4951EBBE-6948-4022-934C-B4383924F4DD}.Release|anycpu.Build.0 = Release|anycpu
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
