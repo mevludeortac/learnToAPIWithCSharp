@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "methods", "methods\methods.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Math", "Math\Math.csproj", "{4951EBBE-6948-4022-934C-B4383924F4DD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValueTypeAndReferenceType", "ValueTypeAndReferenceType\ValueTypeAndReferenceType.csproj", "{36B7E494-0A47-466B-B1CB-D9A749DB1362}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gun4Odev3", "Gun4Odev3\Gun4Odev3.csproj", "{FCA05627-3031-488A-BE1B-01FAF2FC51DD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -33,6 +37,14 @@ Global
 		{4951EBBE-6948-4022-934C-B4383924F4DD}.Debug|anycpu.Build.0 = Debug|anycpu
 		{4951EBBE-6948-4022-934C-B4383924F4DD}.Release|anycpu.ActiveCfg = Release|anycpu
 		{4951EBBE-6948-4022-934C-B4383924F4DD}.Release|anycpu.Build.0 = Release|anycpu
+		{36B7E494-0A47-466B-B1CB-D9A749DB1362}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{36B7E494-0A47-466B-B1CB-D9A749DB1362}.Debug|anycpu.Build.0 = Debug|anycpu
+		{36B7E494-0A47-466B-B1CB-D9A749DB1362}.Release|anycpu.ActiveCfg = Release|anycpu
+		{36B7E494-0A47-466B-B1CB-D9A749DB1362}.Release|anycpu.Build.0 = Release|anycpu
+		{FCA05627-3031-488A-BE1B-01FAF2FC51DD}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{FCA05627-3031-488A-BE1B-01FAF2FC51DD}.Debug|anycpu.Build.0 = Debug|anycpu
+		{FCA05627-3031-488A-BE1B-01FAF2FC51DD}.Release|anycpu.ActiveCfg = Release|anycpu
+		{FCA05627-3031-488A-BE1B-01FAF2FC51DD}.Release|anycpu.Build.0 = Release|anycpu
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
