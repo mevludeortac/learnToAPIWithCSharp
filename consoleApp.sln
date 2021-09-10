@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collections", "Collections\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{392D68FC-20F8-4249-B596-C21124C553A5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructors", "Constructors\Constructors.csproj", "{FBB8C91B-547F-4D2F-8295-5C6EF7CCB797}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -63,6 +65,10 @@ Global
 		{392D68FC-20F8-4249-B596-C21124C553A5}.Debug|anycpu.Build.0 = Debug|anycpu
 		{392D68FC-20F8-4249-B596-C21124C553A5}.Release|anycpu.ActiveCfg = Release|anycpu
 		{392D68FC-20F8-4249-B596-C21124C553A5}.Release|anycpu.Build.0 = Release|anycpu
+		{FBB8C91B-547F-4D2F-8295-5C6EF7CCB797}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{FBB8C91B-547F-4D2F-8295-5C6EF7CCB797}.Debug|anycpu.Build.0 = Debug|anycpu
+		{FBB8C91B-547F-4D2F-8295-5C6EF7CCB797}.Release|anycpu.ActiveCfg = Release|anycpu
+		{FBB8C91B-547F-4D2F-8295-5C6EF7CCB797}.Release|anycpu.Build.0 = Release|anycpu
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
