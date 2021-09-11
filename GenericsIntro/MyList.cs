@@ -20,7 +20,7 @@ namespace GenericsIntro
             //eski elemanları saklaması için kullandığımız değişkenimizden, eski elemanlarımızı çağırıyoruz
             for (int i = 0; i < tempArray.Length; i++) //tempArraydeki tüm elemanları tek tek  items'a alıyoruz
             {
-
+                 
                 items[i] = tempArray[i]; //transfer tamamlandı ve artık boş bir elemanımız daha var (yeni dizi elemanı, diğer elemanlar silinmeden eklenmiş oldu)
             }
             items[items.Length - 1] = item; // add fonksiyonun parametresi olan item'ı items dizisinin son elemanı olarak atadık.
