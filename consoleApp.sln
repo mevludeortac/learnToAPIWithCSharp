@@ -25,6 +25,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructors", "Constructor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gun4Odev5", "Gun4Odev5\Gun4Odev5.csproj", "{E83441EB-F23A-4B1F-869D-7D5C0EEB18BD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP2", "OOP2\OOP2.csproj", "{1D2847EB-4A25-4056-966E-F7D4D799C8AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP3", "OOP3\OOP3.csproj", "{A813C97E-F0B1-45B4-B175-910F8567696E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -75,6 +79,14 @@ Global
 		{E83441EB-F23A-4B1F-869D-7D5C0EEB18BD}.Debug|anycpu.Build.0 = Debug|anycpu
 		{E83441EB-F23A-4B1F-869D-7D5C0EEB18BD}.Release|anycpu.ActiveCfg = Release|anycpu
 		{E83441EB-F23A-4B1F-869D-7D5C0EEB18BD}.Release|anycpu.Build.0 = Release|anycpu
+		{1D2847EB-4A25-4056-966E-F7D4D799C8AA}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{1D2847EB-4A25-4056-966E-F7D4D799C8AA}.Debug|anycpu.Build.0 = Debug|anycpu
+		{1D2847EB-4A25-4056-966E-F7D4D799C8AA}.Release|anycpu.ActiveCfg = Release|anycpu
+		{1D2847EB-4A25-4056-966E-F7D4D799C8AA}.Release|anycpu.Build.0 = Release|anycpu
+		{A813C97E-F0B1-45B4-B175-910F8567696E}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{A813C97E-F0B1-45B4-B175-910F8567696E}.Debug|anycpu.Build.0 = Debug|anycpu
+		{A813C97E-F0B1-45B4-B175-910F8567696E}.Release|anycpu.ActiveCfg = Release|anycpu
+		{A813C97E-F0B1-45B4-B175-910F8567696E}.Release|anycpu.Build.0 = Release|anycpu
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

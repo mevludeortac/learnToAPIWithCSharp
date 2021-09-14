@@ -20,13 +20,28 @@ namespace Gun4Odev5
 
             keys = new TKey[keys.Length + 1];
             values = new TValue[values.Length + 1];
+
+            for (int i = 0; i < tempValue.Length; i++)
+            {
+                keys[i] = tempKey[i];
+                values[i] = tempValue[i];
+            }
+            keys[keys.Length - 1] = key;
+            values[values.Length - 1] = value;
+
+
+
         }
-        public int Count
+        public int CountOfKey
         {
             get { return keys.Length; }
-            
 
-            }
+        }
+        public int CountOfValue
+        {
+            get { return values.Length; }
+
+        }
     }
     
 
