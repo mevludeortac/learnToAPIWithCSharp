@@ -18,6 +18,12 @@ namespace OOP3
             personalFinanceCredit2.Calculate();
             ICreditManager transportCredit2 = new TransportCredit();
             transportCredit2.Calculate();
+
+            //ApplicationManager'da MakeApplication'a kredi parametresi ekledikten sonra
+            //seçilen kredi türüne göre o kredinin manager classının içerisindeki
+            //operasyonda işlem yapılır.
+            ApplicationManager applicationManager1 = new ApplicationManager();
+            applicationManager1.MakeApplication(PersonalFinanceCreditManager);
         }
     }
 }
