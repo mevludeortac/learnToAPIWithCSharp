@@ -38,6 +38,11 @@
     <Compile Include="TransportCreditManager.cs" />
     <Compile Include="PersonalFinanceCreditManager.cs" />
     <Compile Include="ApplicationManager.cs" />
+    <Compile Include="ILoggerService.cs" />
+    <Compile Include="DatabaseLoggerService.cs" />
+    <Compile Include="FileLoggerService.cs" />
+    <Compile Include="BusinessCreditManager.cs" />
+    <Compile Include="SmsLoggerService.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
