@@ -29,6 +29,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP2", "OOP2\OOP2.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPThree", "OOPThree\OOPThree.csproj", "{5BC45BA3-A40F-4A4E-BB7B-5376507BAFA7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetNSetsDetails", "GetNSetsDetails\GetNSetsDetails.csproj", "{EBAA52D1-C2ED-480E-9FEF-6866C80FDDC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dama", "Dama\Dama.csproj", "{8DDA0B71-FB49-4BBB-9D50-647BAA64FD56}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -87,6 +91,14 @@ Global
 		{5BC45BA3-A40F-4A4E-BB7B-5376507BAFA7}.Debug|anycpu.Build.0 = Debug|anycpu
 		{5BC45BA3-A40F-4A4E-BB7B-5376507BAFA7}.Release|anycpu.ActiveCfg = Release|anycpu
 		{5BC45BA3-A40F-4A4E-BB7B-5376507BAFA7}.Release|anycpu.Build.0 = Release|anycpu
+		{EBAA52D1-C2ED-480E-9FEF-6866C80FDDC3}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{EBAA52D1-C2ED-480E-9FEF-6866C80FDDC3}.Debug|anycpu.Build.0 = Debug|anycpu
+		{EBAA52D1-C2ED-480E-9FEF-6866C80FDDC3}.Release|anycpu.ActiveCfg = Release|anycpu
+		{EBAA52D1-C2ED-480E-9FEF-6866C80FDDC3}.Release|anycpu.Build.0 = Release|anycpu
+		{8DDA0B71-FB49-4BBB-9D50-647BAA64FD56}.Debug|anycpu.ActiveCfg = Debug|Any CPU
+		{8DDA0B71-FB49-4BBB-9D50-647BAA64FD56}.Debug|anycpu.Build.0 = Debug|Any CPU
+		{8DDA0B71-FB49-4BBB-9D50-647BAA64FD56}.Release|anycpu.ActiveCfg = Release|Any CPU
+		{8DDA0B71-FB49-4BBB-9D50-647BAA64FD56}.Release|anycpu.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
