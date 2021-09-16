@@ -31,7 +31,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPThree", "OOPThree\OOPThr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetNSetsDetails", "GetNSetsDetails\GetNSetsDetails.csproj", "{EBAA52D1-C2ED-480E-9FEF-6866C80FDDC3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dama", "Dama\Dama.csproj", "{8DDA0B71-FB49-4BBB-9D50-647BAA64FD56}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultipleImplementation", "MultipleImplementation\MultipleImplementation.csproj", "{C84E4BD7-A3F5-491D-A2C0-B4955BB90E02}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -95,10 +95,10 @@ Global
 		{EBAA52D1-C2ED-480E-9FEF-6866C80FDDC3}.Debug|anycpu.Build.0 = Debug|anycpu
 		{EBAA52D1-C2ED-480E-9FEF-6866C80FDDC3}.Release|anycpu.ActiveCfg = Release|anycpu
 		{EBAA52D1-C2ED-480E-9FEF-6866C80FDDC3}.Release|anycpu.Build.0 = Release|anycpu
-		{8DDA0B71-FB49-4BBB-9D50-647BAA64FD56}.Debug|anycpu.ActiveCfg = Debug|Any CPU
-		{8DDA0B71-FB49-4BBB-9D50-647BAA64FD56}.Debug|anycpu.Build.0 = Debug|Any CPU
-		{8DDA0B71-FB49-4BBB-9D50-647BAA64FD56}.Release|anycpu.ActiveCfg = Release|Any CPU
-		{8DDA0B71-FB49-4BBB-9D50-647BAA64FD56}.Release|anycpu.Build.0 = Release|Any CPU
+		{C84E4BD7-A3F5-491D-A2C0-B4955BB90E02}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{C84E4BD7-A3F5-491D-A2C0-B4955BB90E02}.Debug|anycpu.Build.0 = Debug|anycpu
+		{C84E4BD7-A3F5-491D-A2C0-B4955BB90E02}.Release|anycpu.ActiveCfg = Release|anycpu
+		{C84E4BD7-A3F5-491D-A2C0-B4955BB90E02}.Release|anycpu.Build.0 = Release|anycpu
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
