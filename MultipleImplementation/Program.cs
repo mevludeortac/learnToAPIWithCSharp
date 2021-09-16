@@ -6,8 +6,29 @@ namespace MultipleImplementation
     {
         public static void Main(string[] args)
             {
-                Console.WriteLine("Hello World!");
+                IWorker[] workers = new IWorker[3]
+                    { new Manager(),
+                        new Worker(),
+                          new Robot()
+                    };
+                foreach (var worker in workers)
+                {
+                    worker.Work();
+                }
+
+                IEat[] eaters = new IEat[2]
+                {
+
+                    new Manager(),
+                    new Worker()
+                };
+            foreach (var eater in eaters)
+            {
+                eater.Eat();
             }
+
+
+            }       
     }
 
         interface IWorker
